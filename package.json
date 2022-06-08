@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexPap1/Office-Hours-Example.git"
+    "url": "git+https://github.com/AlexPap1/Tech-Blog.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/AlexPap1/Office-Hours-Example/issues"
+    "url": "https://github.com/AlexPap1/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/AlexPap1/Office-Hours-Example#readme"
+  "homepage": "https://github.com/AlexPap1/Tech-Blog#readme"
 }
